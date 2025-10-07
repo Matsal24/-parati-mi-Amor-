@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
+
     <style>
         h1 {
             margin-top: 200px; /* puedes ajustar el número */
